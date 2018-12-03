@@ -2,8 +2,11 @@ body{
     background-color: lightgray;
 }
 
-.jumbotron{
+.jumbotron {
+    margin-bottom: 0px;
     background-color: DarkGrey;
+    color: White;
+    text-shadow: black 0.3em 0.3em 0.3em;
 }
 
 .card{
