@@ -3,7 +3,7 @@ body{
 }
 
 .jumbotron {
-    margin-bottom: 0px;
+    margin-bottom: 16px;
     background-color: DarkGrey;
     color: White;
 }
